@@ -1,0 +1,64 @@
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Site settings
+title: "My Research Blog"
+description: > # this means to ignore newlines until "email:"
+   A Digital Research Notebook
+
+email: david.brough.0416@gmail.com
+#blog logo
+logo: "/assets/images/logo_myrb.jpg"
+# blog cover
+cover: "/assets/images/modern_physics.jpg"
+
+name: 'David Brough'
+author: 'David Brough'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+#url: "http://davidbrough1.github.io" # the base hostname & protocol for your site
+#baseurl: "/research-blog/"
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/thedavidbrough
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/davidbrough1
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
+  - icon: linkedin
+    url:  https://www.linkedin.com/pub/david-brough/10/b01/243
+    desc: Checkout my linkedin profile
+
+gh:
+  user: davidbrough
+  repo: research-notes
+  # Branch hosting Github pages
+  branch: gh-pages
+
+disqus: davidbrough
