@@ -1,0 +1,16 @@
+---
+layout: default
+img: pca_x_ray.png
+category: Services
+title: Research Projects<br>
+description: |
+  <p class="lead"><a target="_blank"
+  href="http://phelpsforpresident.github.io/MIC-XRD-Polymer/2014/12/12/Final-Post.html">
+  Structure - Processing Linkages for Polyethylene</a> were created
+  using time series analysis of a low dimensional representation of
+  small angle x-ray scattering data using PCA and transfer function
+  models.
+  </p>
+
+
+---

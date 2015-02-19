@@ -1,0 +1,25 @@
+---
+layout: default
+img: bio_photo.jpeg
+category: Services
+title: About Me<br>
+description: |
+  <p class="lead">I am a PhD student in the School of Computational
+  Science and Engineering at Georgia Institute of Technology. I earned
+  a Master’s degree in experimental condensed matter physics at Brigham
+  Young University where I fabricated and characterized thin-films
+  and carbon nanotubes used in nanostructured high capacity battery
+  electrodes and in X-ray windows. As an undergraduate, I studied
+  theoretical physics and researched the evolution of chaotic systems
+  using neural networks at Westminster College. I am a trainee is an
+  NSF IGERT <a target="_blank"
+  href="http://http://www.flamel.gatech.edu/">
+  FLAMEL</a>  program, and one of the lead developers on
+  <a target="_blank" href="http://pymks.org/">PyMKS</a> materials
+  informatics toolkit. My current research interest is creating tools
+  and protocols that efficiently leverage large datasets to learn
+  structure-processing and structure-property relationships.
+  </p>
+
+
+---
