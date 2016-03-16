@@ -1,6 +1,6 @@
 ---
 layout: default
-img: bio_photo.jpeg
+img: my_pic.jpg
 category: Services
 title: About Me<br>
 description: |
